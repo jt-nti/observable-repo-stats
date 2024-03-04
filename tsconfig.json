@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "lib": ["ES2023", "DOM.Iterable"],
+    "module": "Node16",
+    "target": "ES2022",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": ["docs/**/*"]
+}

@@ -11,9 +11,14 @@
   "dependencies": {
     "@observablehq/framework": "latest",
     "d3-dsv": "^3.0.1",
+    "d3-fetch": "^3.0.1",
     "d3-time-format": "^4.1.0"
   },
   "engines": {
     "node": ">=20.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
   }
 }
