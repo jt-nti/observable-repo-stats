@@ -1,0 +1,18 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"run",
+				"dev",
+				"--",
+				"--host=localhost"
+			],
+			"problemMatcher": [],
+			"label": "npm: dev",
+			"detail": "observable preview"
+		}
+	]
+}
